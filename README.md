@@ -4,10 +4,10 @@ This repository serves as a cryptocurrency exchange platform (with Next + Tailwi
 ## Overview
 
 ### Landing
-![landing](./images/landing.png)
+![landing](../../images/landing.png)
 
 ### HowItWorks
-![howItWorks](./images/how_it_works.png)
+![howItWorks](../../images/how_it_works.png)
 
 ### Token
 ![token](./images/token.png)
