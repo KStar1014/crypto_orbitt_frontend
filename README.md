@@ -13,7 +13,7 @@ This repository serves as a cryptocurrency exchange platform (with Next + Tailwi
 ![token](./blob/main/images/token.png)
 
 ### Estimator
-![estimator](./images/calculator.png)
+![estimator](./images/calculator.PNG)
 
 
 ## Features
