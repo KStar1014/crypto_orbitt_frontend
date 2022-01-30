@@ -50,5 +50,4 @@ https://orbitt-frontend.vercel.app/
 
 
 ### Vite
-#### Run
 
